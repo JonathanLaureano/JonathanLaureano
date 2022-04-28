@@ -11,12 +11,14 @@
 
 - 📫 How to reach me **JonathanLaureano20@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1502lXaCHEi4VuBjly6UpMHq2OUcj6QYqm2eZ8_cdhHc/edit?usp=sharing](https://docs.google.com/document/d/1502lXaCHEi4VuBjly6UpMHq2OUcj6QYqm2eZ8_cdhHc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1502lXaCHEi4VuBjly6UpMHq2OUcj6QYqm2eZ8_cdhHc/edit?usp=sharing)
 
 - ⚡ Fun fact **I know a lot about Estuaries**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Developing Your First Full Stack Application](https://medium.com/@jonathanlaureano20/developing-your-first-full-stack-application-react-ruby-on-rails-6f1e8768e53d)
+[Getting Over Your RGBlues](https://medium.com/@jonathanlaureano20/getting-over-your-rgblues-b29eef662670)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
