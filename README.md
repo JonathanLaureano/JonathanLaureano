@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📝 I regularly write articles on [https://medium.com/@jonathanlaureano20](https://medium.com/@jonathanlaureano20)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jonathanlaureano20)
 
 - 💬 Ask me about **Ruby on Rails and React**
 
