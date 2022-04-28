@@ -18,6 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 [Developing Your First Full Stack Application](https://medium.com/@jonathanlaureano20/developing-your-first-full-stack-application-react-ruby-on-rails-6f1e8768e53d)
+
 [Getting Over Your RGBlues](https://medium.com/@jonathanlaureano20/getting-over-your-rgblues-b29eef662670)
 <!-- BLOG-POST-LIST:END -->
 
