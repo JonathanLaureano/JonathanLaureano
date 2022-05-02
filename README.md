@@ -20,6 +20,8 @@
 [Developing Your First Full Stack Application](https://medium.com/@jonathanlaureano20/developing-your-first-full-stack-application-react-ruby-on-rails-6f1e8768e53d)
 
 [Getting Over Your RGBlues](https://medium.com/@jonathanlaureano20/getting-over-your-rgblues-b29eef662670)
+
+[How To Deploy Your First Full-Stack Web Application (React, Rails, & Heroku)](https://medium.com/p/17a799e78bb4#5cec-2e67a3c85b75)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
