@@ -1,8 +1,6 @@
 <h1 align="center">My Name is Jonathan Laureano</h1>
 <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
 
-- 🔭 I’m currently working on [TryColors](https://github.com/JonathanLaureano/TryColors)
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jonathanlaureano20)
