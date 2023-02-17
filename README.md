@@ -1,11 +1,11 @@
 <h1 align="center">My Name is Jonathan Laureano</h1>
-<h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
+<h3 align="center">I'm a Software Engineer Currently At Booz Allen Hamilton</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Java/Spring**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jonathanlaureano20)
 
-- 💬 Ask me about **Ruby on Rails and React**
+- 💬 Ask me about **Redux in React vs. Angular**
 
 - 📫 How to reach me **JonathanLaureano20@gmail.com**
 
