@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **JonathanLaureano20@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://docs.google.com/document/d/1q2UMr3t-2SjLbEoTp0pPyBBx9l_HJYrYfkBwHQwB1no/edit?usp=sharing)))
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1q2UMr3t-2SjLbEoTp0pPyBBx9l_HJYrYfkBwHQwB1no/edit?usp=sharing)
 
 - ⚡ Fun fact **I know a lot about Estuaries**
 
