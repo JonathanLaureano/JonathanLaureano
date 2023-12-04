@@ -1,7 +1,7 @@
 <h1 align="center">My Name is Jonathan Laureano</h1>
 <h3 align="center">I'm a Software Engineer Currently At Booz Allen Hamilton</h3>
 
-- 🌱 I’m currently learning **Java/Spring**
+- 🌱 I’m currently learning **AWS Certified Developer - Associate**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jonathanlaureano20)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **JonathanLaureano20@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1502lXaCHEi4VuBjly6UpMHq2OUcj6QYqm2eZ8_cdhHc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume]((https://docs.google.com/document/d/1q2UMr3t-2SjLbEoTp0pPyBBx9l_HJYrYfkBwHQwB1no/edit?usp=sharing)))
 
 - ⚡ Fun fact **I know a lot about Estuaries**
 
